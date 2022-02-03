@@ -1,6 +1,6 @@
 ## Meu novo repositório público no GIT. Enjoy!
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/iwasrep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iwasrep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrep&layout=compact&langs_count=7&theme=dracula"/>
