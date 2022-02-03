@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/iwasrep">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iwasrep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" style="margin-left:3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrep&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrep&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -24,9 +24,7 @@
   <img align="center" alt="iWAS-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="right" alt="iWAS-pic" height="130" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/75737096?s=400&u=aea6c9cb22bac3cdd1595597feea287996d16dca&v=4">
 </div>
-  
-##
- 
+
 <div> 
   <a href="https://www.youtube.com/channel/UCloXzL4Rgjr7r_qHrH4pFzA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/diogolinsdrack" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
