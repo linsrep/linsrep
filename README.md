@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrep&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
   <img align="center" alt="iWAS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="iWAS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="iWAS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
