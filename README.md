@@ -1,4 +1,4 @@
-## Welcommit to the JAM, Bro!
+## Well Commit to the JAM bro!
 <br>
 <div align="center">
   <a href="https://github.com/iwasrep">
