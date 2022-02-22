@@ -1,4 +1,4 @@
-## Meu novo repositório público no GIT. Enjoy!
+## Welcommit to the JAM, Bro!
 <br>
 <div align="center">
   <a href="https://github.com/iwasrep">
