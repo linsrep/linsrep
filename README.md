@@ -1,9 +1,9 @@
 ## Well Commit to the JAM Bro!
 <br>
 <div align="center">
-  <a href="https://github.com/iwasrep">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iwasrep&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasrep&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <a href="https://github.com/linsrep">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=linsrep&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsrep&layout=compact&langs_count=7&theme=great-gatsby"/>
   </a>
 </div>
 <div style="display: inline_block"><br><br>
