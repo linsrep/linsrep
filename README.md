@@ -1,4 +1,4 @@
-## Well Commit to the JAM Bro!
+<h1 align="center">## Well Commit to the JAM Bro!</h1>
 <br>
 <div align="center">
   <a href="https://github.com/linsrep">
