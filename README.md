@@ -20,6 +20,7 @@
   <img align="center" alt="GOATech-android" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="GOATech-Apple" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="GOATech-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="GOATech-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="right" alt="GOATech-pic" height="130" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/167486873?s=400&u=aea6c9cb22bac3cdd1595597feea287996d16dca&v=4">
 </div>
 
